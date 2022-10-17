@@ -2,8 +2,6 @@ plugins {
     id 'java'
 }
 
-group 'guru.xel'
-version '1.0'
 
 repositories {
     mavenCentral()
