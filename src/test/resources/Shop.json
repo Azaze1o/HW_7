@@ -1,0 +1,12 @@
+{
+  "id" : 456,
+  "category" : "jeans",
+  "name" : "blue jeans",
+  "available" : true,
+  "tags" : ["blue", "jeans", "woman"],
+  "size" : {
+    "euSize" : 53,
+    "ruSize" : 55,
+    "usSize" : 50
+  }
+}
